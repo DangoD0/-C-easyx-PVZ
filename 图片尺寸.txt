@@ -1,0 +1,61 @@
+界面:800*600
+Zombie:
+	attaack:110*130    21
+	die:166*90    10
+	boomDie:106*125    20
+	head:150*186   12
+	lostHead:95*100   18
+	lostHeadAttack:110*100   11
+	stand_1:106*125   11
+	stand_2:106*130   22
+	stand_3:106*130   11
+	walk_1:106*130   22
+	walk_2:110*130   31
+	walk_3:110*130   18
+1路障:
+	stand:90*144 8
+	walk:90*144 21
+2铁通:
+	stand:90*144 6
+	walk:95*144 15
+3Flag:
+	walk:110*144 12
+	attack:110*144 11
+	losthead:110*144 12
+	lostheadAttack:110*144 11
+4Football:
+	stand:128*144 15
+	attack:128*144 10
+	walk:154*160 11
+	lostHead:154*152 10
+	lostheadAttack:128*144 10
+	die:194*138 7
+	lostorn:156*160 11
+	lostornAttack:128*138 11
+选择界面:600*86(离左边10)
+fight:154*38 up to 546,left to 154
+地图离左边230，离右边370
+僵尸站立:486*330
+choosePage:464*516;   up to 90;
+阳光:79*79  29
+方框:84*98
+card:51*70 (max) else 54*70
+SunFlower:73*74   18
+PeaShooter:71*71   13
+WallNut:65*73   16
+	cracked_1:   11
+	cracked_2:   15
+SpikeWeed:85*71   19
+Squash:100*226   17
+	attack:   28
+Cherry:112*81 7
+	boom:213*196 12
+Jala:68*89 8
+	boom:755*131 8
+Repeater:73*71 15
+Gatlingpea:88*84 13
+阳光掉落:7s
+第一只僵尸出现时间: 17s
+rOPy-40
+startlevel  210*85 180*105 253*106
+38 392
